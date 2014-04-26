@@ -1,4 +1,4 @@
 AdServer-List
 =============
 
-For blocking in host files
+To block the entire list just drop the contents of the list into /etc/hosts 
